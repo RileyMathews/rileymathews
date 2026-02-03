@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-If your here looking for my recent work I've migrated most of my repos to [codeberg](https://codeberg.org/rileymathews). Feel free to take a look there! I will still use github to collaborate with projects that are primarily hosted here.
+If your here looking for my recent work I'm currently migrating most of my public work to [codeberg](https://codeberg.org/rileymathews). Feel free to take a look there! I will still use github to collaborate with projects that are primarily hosted here.
